@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\n\ Name\:\ O\u2019Diepriye\ Graham-Douglas\ \n\ MODULE\:\ DATA\ STRUCTURES\ &\ ALGORITHMS\ &\ DATA\ STRUCTURES\ \n\ Student\ ID\:\ AGD626\ \n\ Student\ Number\:\ @00592983\n\ @30th\ November,\ 2021.\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=java.lang.Object\ peek()
+comment3.params=object
+comment3.target=void\ push(java.lang.Object)
+comment4.params=
+comment4.target=java.lang.Object\ pop()
+numComments=5

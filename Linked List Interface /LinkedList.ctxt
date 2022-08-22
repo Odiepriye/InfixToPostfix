@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment0.text=\n\ Name\:\ O\u2019Diepriye\ Graham-Douglas\ \n\ MODULE\:\ DATA\ STRUCTURES\ &\ ALGORITHMS\ &\ DATA\ STRUCTURES\ \n\ Student\ ID\:\ AGD626\ \n\ Student\ Number\:\ @00592983\n\ @30th\ November,\ 2021.\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment2.params=
+comment2.target=int\ size()
+comment3.params=index
+comment3.target=java.lang.Object\ get(int)
+comment4.params=object
+comment4.target=int\ indexOf(java.lang.Object)
+comment5.params=index
+comment5.target=java.lang.Object\ remove(int)
+comment6.params=index\ theObject
+comment6.target=void\ add(int,\ java.lang.Object)
+comment7.params=theObject
+comment7.target=void\ addFirst(java.lang.Object)
+comment8.params=theObject
+comment8.target=void\ addLast(java.lang.Object)
+comment9.params=
+comment9.target=java.lang.String\ outputList()
+numComments=10

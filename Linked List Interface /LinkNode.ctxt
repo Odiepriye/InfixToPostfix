@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LinkNode
+comment0.text=\n\ Name\:\ O\u2019Diepriye\ Graham-Douglas\ \n\ MODULE\:\ DATA\ STRUCTURES\ &\ ALGORITHMS\ &\ DATA\ STRUCTURES\ \n\ Student\ ID\:\ AGD626\ \n\ Student\ Number\:\ @00592983\n\ @30th\ November,\ 2021.\n
+comment1.params=theObject\ next
+comment1.target=LinkNode(java.lang.Object,\ LinkNode)
+numComments=2
